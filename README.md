@@ -8,20 +8,20 @@ Hi,I am @MaxwellOnyango
 
 I'm a self-taught and college-trained software developer on a mission to build innovative, impactful software systems. I transitioned from a full-time teaching career to pursue my passion in software engineering — with projects like school management systems and an Uber-style app already under my belt.
 
-- 💻 Currently building: EduSync – A smart school management system (Desktop & Web)
-- 📱 Learning: Android App Development (Java + Firebase)
-- 🌐 Backend Skills: Node.js, Express, SQL Server
-- 💾 Desktop Stack: VB.NET & C# WinForms
-- 🎓 Studying Software Engineering at Webbs Institute (9-month intensive course)
-- 🛠️ Self-learning full-stack development and DevOps
+-  Currently building: EduSync – A smart school management system (Desktop & Web)
+-  Learning: Android App Development (Java + Firebase)
+-  Backend Skills: Node.js, Express, SQL Server
+-  Desktop Stack: VB.NET & C# WinForms
+-  Studying Software Engineering at Webbs Institute (9-month intensive course)
+-  Self-learning full-stack development and DevOps
 
 ---
 
  What I’m Working On
 
-- 🔧 EduSync School System (WinForms, Node.js Backend, M-Pesa Integration)
-- 🚗 Uber-style Android App using Firebase
-- ☁️ Learning how to deploy modern full-stack apps to the cloud
+-  EduSync School System (WinForms, Node.js Backend, M-Pesa Integration)
+-  Uber-style Android App using Firebase
+-  Learning how to deploy modern full-stack apps to the cloud
 
 ---
 
