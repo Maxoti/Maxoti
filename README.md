@@ -1,12 +1,12 @@
 Hi,I am @MaxwellOnyango
 
- Aspiring Software Engineer  | Passionate about Engineering Real-World Solutions
+  Software Engineer  | Passionate about Engineering Real-World Solutions
 
 ---
 
 
 
-I'm a self-taught and college-trained software developer on a mission to build innovative, impactful software systems. I transitioned from a full-time teaching career to pursue my passion in software engineering — with projects like school management systems and an Uber-style app already under my belt.
+I'm a college-trained software developer on a mission to build innovative, impactful software systems. I transitioned from a full-time teaching career to pursue my passion in software engineering — with projects like school management systems and an Uber-style app already under my belt.
 
 -  Currently building: EduSync – A smart school management system (Desktop & Web)
 -  Learning: Android App Development (Java + Firebase)
@@ -46,7 +46,7 @@ I'm a self-taught and college-trained software developer on a mission to build i
 
  Tools & Technologies
 
-- Languages: Java, C#, VB.NET, JavaScript, SQL
-- Tools: Android Studio, Visual Studio, VS Code, Firebase, SQL Server
+- Languages:  C#, VB.NET, JavaScript, SQL
+- Tools:  Visual Studio, VS Code, Firebase, SQL Server, Postgresql server
 - Dev Practices: Project-based learning, system thinking, and solving real-world problems
 
